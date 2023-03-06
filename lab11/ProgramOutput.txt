@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=61847:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Ethan Florko\Desktop\FlorkoElab11\out\production\FlorkoElab11" lab11.cscd211lab11.CSCD211Lab11
+Count of 5s - Number: 515 - Count: 2
+Count of 5s - Number: 5 - Count: 1
+Count of 5s - Number: 123 - Count: 0
+Count of 5s - Number: 55 - Count: 2
+Count of 5s - Number: 5123 - Count: 1
+Count of 5s - Number: 551235 - Count: 3
+Count of 5s - Number: 551535 - Count: 4
+Count of 5s - Number: 45751 - Count: 2
+Count of 5s - Number: 555555 - Count: 6
+Count of 5s - Number: 50501255 - Count: 4
+Count of 5s - Number: 555756195 - Count: 5
+Count of 5s - Number: 99999 - Count: 0
+Count of 5s - Number: 99599 - Count: 1
+
+Process finished with exit code 0

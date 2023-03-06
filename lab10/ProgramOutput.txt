@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=60360:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Ethan Florko\Desktop\FlorkoELab10\out\production\FlorkoELab10" lab10.cscd211recursion.CSCD211Lab10
+Square - Row: 0 - Blocks: 0
+Square - Row: 1 - Blocks: 1
+Square - Row: 2 - Blocks: 3
+Square - Row: 3 - Blocks: 6
+Square - Row: 4 - Blocks: 10
+Square - Row: 5 - Blocks: 15
+Square - Row: 6 - Blocks: 21
+Square - Row: 7 - Blocks: 28
+
+Process finished with exit code 0
